@@ -258,29 +258,5 @@ for mobile platforms.
 
 </footer>
 
-
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-
-<script>
-
-window.addEventListener("scroll",function(){
-
-const elements=document.querySelectorAll(".skill-card");
-
-elements.forEach(el=>{
-const position=el.getBoundingClientRect().top;
-const screen=window.innerHeight;
-
-if(position<screen-100){
-el.style.opacity=1;
-el.style.transform="translateY(0)";
-}
-
-})
-
-})
-
-</script>
-
 </body>
 </html>
