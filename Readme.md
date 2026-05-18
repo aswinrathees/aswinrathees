@@ -4,73 +4,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Aswin R | Technical Lead</title>
-
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-
-<style>
-
-body{
-font-family: 'Segoe UI',sans-serif;
-background:#f5f7fa;
-}
-
-.hero{
-background:linear-gradient(120deg,#0f2027,#203a43,#2c5364);
-color:white;
-padding:100px 0;
-}
-
-.profile-img{
-width:140px;
-height:140px;
-border-radius:50%;
-border:5px solid white;
-}
-
-.section-title{
-font-weight:700;
-margin-bottom:30px;
-}
-
-.skill-card{
-background:white;
-padding:20px;
-border-radius:10px;
-box-shadow:0 5px 20px rgba(0,0,0,0.08);
-transition:0.3s;
-}
-
-.skill-card:hover{
-transform:translateY(-5px);
-}
-
-.timeline{
-border-left:3px solid #0d6efd;
-padding-left:25px;
-}
-
-.timeline-item{
-margin-bottom:30px;
-}
-
-.project-card{
-border:none;
-box-shadow:0 5px 25px rgba(0,0,0,0.1);
-transition:0.3s;
-}
-
-.project-card:hover{
-transform:translateY(-5px);
-}
-
-footer{
-background:#0f2027;
-color:white;
-padding:20px;
-}
-
-</style>
 </head>
 
 <body>
@@ -85,14 +18,11 @@ padding:20px;
 
 <h1>Aswin R</h1>
 
-<h4>Senior Software Engineer</h4>
+<h4>Technical Lead</h4>
 
 <p class="lead">
 iOS | Android | Web
 </p>
-
-<!--<a class="btn btn-light m-2">Download Resume</a>
-<a class="btn btn-outline-light m-2">Contact</a>-->
 
 </div>
 
