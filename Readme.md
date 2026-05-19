@@ -36,7 +36,7 @@ iOS | Android | Web
 
 <p class="text-center">
 
-Senior Software Engineer with strong expertise in <b>mobile application development</b>, building
+Software Engineer with strong expertise in <b>mobile application development</b>, building
 secure, scalable and high-performance applications across <b>iOS and Android platforms</b>.
 Experienced in networking, SDK integration, performance optimization and delivering
 production-grade mobile solutions.
@@ -112,8 +112,8 @@ mobile system challenges.
 
 <div class="timeline-item">
 
-<h5>Senior Software Engineer</h5>
-<p><b>Mobile Development</b></p>
+<h5>Technical Lead</h5>
+<p><b>KrazyBee Services Limited</b></p>
 
 <ul>
 <li>Developed scalable mobile applications across iOS and Android.</li>
@@ -125,12 +125,46 @@ mobile system challenges.
 
 <div class="timeline-item">
 
-<h5>Software Engineer</h5>
+<h5>Senior Software Engineer</h5>
+<p><b>Chinasoft International - Huawei</b></p>
 
 <ul>
 <li>Designed mobile SDK components.</li>
 <li>Integrated complex third-party APIs.</li>
 <li>Delivered high reliability production features.</li>
+</ul>
+
+</div>
+
+<div class="timeline-item">
+
+<h5>Software Engineer</h5>
+<p><b>Aseuro Technologies Private Limted</b></p>
+
+<ul>
+<li>Proximity-Based Automation: Engineered an intelligent museum guide application featuring BLE (Bluetooth Low Energy) integration for real-time, location-aware artifact detection.
+</li>
+</ul>
+
+</div>
+
+<div class="timeline-item">
+
+<h5>Software Developer</h5>
+<p><b>Mutex IT Solutions LLC</b></p>
+
+<ul>
+<li>Participate in complete Software Development Life Cycle (SDLC) for proper analysis, development, testing, deployment and enhancement of the code.</li>
+</ul>
+
+</div>
+<div class="timeline-item">
+
+<h5>Application Support Engineer</h5>
+<p><b>TeamOne Software Technologies</b></p>
+
+<ul>
+<li>Proactive in identifying system bottlenecks, automating repetitive support tasks, and bridging the gap between complex technical debt and seamless user experience</li>
 </ul>
 
 </div>
@@ -254,7 +288,7 @@ for mobile platforms.
 
 <footer class="text-center">
 
-© 2026 Aswin R — Senior Software Engineer Portfolio
+© 2026 Aswin R — Technical Lead Portfolio
 
 </footer>
 
