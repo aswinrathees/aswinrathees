@@ -1,296 +1,82 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/33830946?v=4" width="180" style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.5); margin-bottom: 20px;" alt="Aswin R">
 
-</head>
+  <h1>Hi there, I'm Aswin R 👋</h1>
 
-<body>
-
-<!-- HERO -->
-
-<section class="hero text-center">
-
-<div class="container">
-
-<img src="https://avatars.githubusercontent.com/u/33830946?v=4" class="profile-img mb-3">
-
-<h1>Aswin R</h1>
-
-<h4>Technical Lead</h4>
-
-<p class="lead">
-iOS | Android | Web
-</p>
-
+  <a href="https://github.com/aswinrathees">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Technical+Lead;iOS+%7C+Android+%7C+Web;10+Years+of+Mobile+Excellence;Mobile+Security+Advocate" alt="Typing SVG" />
+  </a>
 </div>
 
-</section>
-
-<!-- ABOUT -->
-
-<section class="container py-5">
-
-<h2 class="section-title text-center">About Me</h2>
-
-<p class="text-center">
-
-Software Engineer with strong expertise in <b>mobile application development</b>, building
-secure, scalable and high-performance applications across <b>iOS and Android platforms</b>.
-Experienced in networking, SDK integration, performance optimization and delivering
-production-grade mobile solutions.
-
-Focused on engineering excellence, architecture design and solving complex
-mobile system challenges.
-
-</p>
-
-</section>
-
-<!-- SKILLS -->
-
-<section class="container py-5">
-
-<h2 class="section-title text-center">Skills</h2>
-
-<div class="row g-4">
-
-<div class="col-md-4">
-<div class="skill-card">
-<h5>Mobile Development</h5>
-<p>iOS, Swift, UIKit, Android, Kotlin, WebView Integration</p>
-</div>
+<div align="center">
+  <a href="mailto:aswinrathees.tech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/aswin-rathees/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@aswinrathees.tech"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 </div>
 
-<div class="col-md-4">
-<div class="skill-card">
-<h5>Networking</h5>
-<p>REST APIs, Retrofit, URLSession, WebRTC</p>
-</div>
-</div>
+---
 
-<div class="col-md-4">
-<div class="skill-card">
-<h5>Architecture</h5>
-<p>MVC, MVVM, Clean Architecture</p>
-</div>
-</div>
+## 🚀 About Me
 
-<div class="col-md-4">
-<div class="skill-card">
-<h5>Performance</h5>
-<p>Memory Optimization, Profiling, Debugging</p>
-</div>
-</div>
+I am a Technical Lead and Software Engineer with 10 years of experience specializing in native Android (Kotlin) and iOS (Swift) development. My career spans Application Support, IoT, and Fintech systems, allowing me to build secure, scalable, and high-performance applications. I have a strong focus on engineering excellence, mobile application security (including RASP and binary integrity), and consistently delivering robust code with a near 100% perfection defect rate.
 
-<div class="col-md-4">
-<div class="skill-card">
-<h5>Tools</h5>
-<p>Git, Xcode, Android Studio</p>
-</div>
-</div>
+---
 
-<div class="col-md-4">
-<div class="skill-card">
-<h5>Other</h5>
-<p>Security Compliance, SDK Development, App Optimization</p>
-</div>
-</div>
+## 🏆 Key Achievements & Experience
 
-</div>
+* **Fintech Innovation (KrazyBee):** Spearheaded the development of a production-quality UPI module for iOS from the ground up within a strict one-month timeframe.
+* **Performance Optimization:** Drastically improved iOS application launch times and memory management architecture across major release versions (1.3.4 and 1.3.5).
+* **OS-Level Engineering (Huawei):** Led the design and development of core library modules for Harmony OS using Java and Extended TypeScript, focusing on UI layouts, encryption, and view components.
+* **IoT & Proximity Solutions (Aseuro):** Engineered an intelligent museum guide application for the Mhow museum utilizing Bluetooth Low Energy (BLE) and ExoPlayer for real-time, location-aware audio playback.
 
-</section>
+---
 
-<!-- EXPERIENCE -->
+## ✍️ Technical Writing & Architecture
 
-<section class="container py-5">
+I actively share knowledge on mobile application security, scalable platform design, and engineering best practices. 
 
-<h2 class="section-title text-center">Experience</h2>
+Read my latest articles and architecture deep dives on **[Medium](https://medium.com/@aswinrathees.tech)**.
 
-<div class="timeline">
+---
 
-<div class="timeline-item">
+## 🛠️ Technical Arsenal
 
-<h5>Technical Lead</h5>
-<p><b>KrazyBee Services Limited</b></p>
-
-<ul>
-<li>Developed scalable mobile applications across iOS and Android.</li>
-<li>Implemented secure networking layers and API integrations.</li>
-<li>Optimized performance for large scale production apps.</li>
-</ul>
-
-</div>
-
-<div class="timeline-item">
-
-<h5>Senior Software Engineer</h5>
-<p><b>Chinasoft International - Huawei</b></p>
-
-<ul>
-<li>Designed mobile SDK components.</li>
-<li>Integrated complex third-party APIs.</li>
-<li>Delivered high reliability production features.</li>
-</ul>
-
-</div>
-
-<div class="timeline-item">
-
-<h5>Software Engineer</h5>
-<p><b>Aseuro Technologies Private Limted</b></p>
-
-<ul>
-<li>Proximity-Based Automation: Engineered an intelligent museum guide application featuring BLE (Bluetooth Low Energy) integration for real-time, location-aware artifact detection.
-</li>
-</ul>
-
-</div>
-
-<div class="timeline-item">
-
-<h5>Software Developer</h5>
-<p><b>Mutex IT Solutions LLC</b></p>
-
-<ul>
-<li>Participate in complete Software Development Life Cycle (SDLC) for proper analysis, development, testing, deployment and enhancement of the code.</li>
-</ul>
-
-</div>
-<div class="timeline-item">
-
-<h5>Application Support Engineer</h5>
-<p><b>TeamOne Software Technologies</b></p>
-
-<ul>
-<li>Proactive in identifying system bottlenecks, automating repetitive support tasks, and bridging the gap between complex technical debt and seamless user experience</li>
-</ul>
-
-</div>
-
-</div>
-
-</section>
-
-<!-- PROJECTS -->
-
-<section class="container py-5">
-
-<h2 class="section-title text-center">Featured Projects</h2>
-
-<div class="row g-4">
-
-<div class="col-md-4">
-
-<div class="card project-card">
-
-<div class="card-body">
-
-<h5 class="card-title">Mobile SDK Development</h5>
-
+### Languages & Platforms
 <p>
-Designed and developed a reusable mobile SDK enabling
-secure integrations for enterprise mobile applications.
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-</div>
-
-</div>
-
-</div>
-
-<div class="col-md-4">
-
-<div class="card project-card">
-
-<div class="card-body">
-
-<h5 class="card-title">High Performance Networking</h5>
-
+### Architecture & Networking
 <p>
-Built optimized networking layers with robust error handling
-and retry mechanisms.
+  <img src="https://img.shields.io/badge/Clean_Architecture-2C2255?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVVM-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
 </p>
 
-</div>
-
-</div>
-
-</div>
-
-<div class="col-md-4">
-
-<div class="card project-card">
-
-<div class="card-body">
-
-<h5 class="card-title">Mobile Security Enhancements</h5>
-
+### Security & Tools
 <p>
-Implemented secure authentication and data protection mechanisms
-for mobile platforms.
+  <img src="https://img.shields.io/badge/RASP_Security-D32F2F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aswinrathees&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=2196F3&title_color=2196F3" alt="Aswin's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswinrathees&theme=radical&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakNum=FFFFFF" alt="Aswin's GitHub Streak" />
 </div>
 
+<div align="center">
+  <br>
+  <p>© 2026 Aswin R — Technical Lead</p>
 </div>
-
-</div>
-
-</div>
-
-</section>
-
-<!-- EDUCATION -->
-
-<section class="container py-5">
-
-<h2 class="section-title text-center">Education</h2>
-
-<div class="text-center">
-
-<p><b>B.Tech in Computer Science</b></p>
-
-<p>Cochin University of Science and Technology</p>
-
-</div>
-
-</section>
-
-<!-- CERTIFICATIONS -->
-
-<section class="container py-5">
-
-<h2 class="section-title text-center">Certifications</h2>
-
-<ul class="text-center list-unstyled">
-
-<li>Networking Certification</li>
-
-</ul>
-
-</section>
-
-<!-- CONTACT -->
-
-<section class="container py-5 text-center">
-
-<h2 class="section-title">Contact</h2>
-
-<p>Email: aswinrathees.tech@gmail.com</p>
-
-<p><a href="https://www.linkedin.com/in/aswin-rathees/" target="_blank">LinkedIn Profile</a></p>
-
-<p><a href="https://github.com/aswinrathees" target="_blank">GitHub Profile</a></p>
-
-</section>
-
-<footer class="text-center">
-
-© 2026 Aswin R — Technical Lead Portfolio
-
-</footer>
-
-</body>
-</html>
