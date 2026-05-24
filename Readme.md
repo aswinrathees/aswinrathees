@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/33830946?v=4" width="180" style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.5); margin-bottom: 20px;" alt="Aswin R">
 
   <h1>Hi there, I'm Aswin R 👋</h1>
 
   <a href="https://github.com/aswinrathees">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Technical+Lead;iOS+%7C+Android+%7C+Web;10+Years+of+Mobile+Excellence;Mobile+Security+Advocate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Technical+Lead;iOS+%7C+Android+%7C+Web;10+Years+of+Development+Excellence;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,14 +17,14 @@
 
 ## 🚀 About Me
 
-I am a Technical Lead and Software Engineer with 10 years of experience specializing in native Android (Kotlin) and iOS (Swift) development. My career spans Application Support, IoT, and Fintech systems, allowing me to build secure, scalable, and high-performance applications. I have a strong focus on engineering excellence, mobile application security (including RASP and binary integrity), and consistently delivering robust code with a near 100% perfection defect rate.
+I am a Technical Lead and Software Engineer with 10 years of experience specializing in native Android (Kotlin), iOS (Swift) and web development. My career spans Application Support, Web Development, IoT, HarmonyOS R&D and Fintech systems, allowing me to build secure, scalable, and high-performance applications. I have a strong focus on engineering excellence, mobile application security (including RASP and binary integrity), and consistently delivering robust code with a near 100% perfection defect rate.
 
 ---
 
 ## 🏆 Key Achievements & Experience
 
 * **Fintech Innovation (KrazyBee):** Spearheaded the development of a production-quality UPI module for iOS from the ground up within a strict one-month timeframe.
-* **Performance Optimization:** Drastically improved iOS application launch times and memory management architecture across major release versions (1.3.4 and 1.3.5).
+* **Performance Optimization:** Drastically improved iOS application launch times and memory management architecture across major release versions and speaheaded migration to SwiftUI.
 * **OS-Level Engineering (Huawei):** Led the design and development of core library modules for Harmony OS using Java and Extended TypeScript, focusing on UI layouts, encryption, and view components.
 * **IoT & Proximity Solutions (Aseuro):** Engineered an intelligent museum guide application for the Mhow museum utilizing Bluetooth Low Energy (BLE) and ExoPlayer for real-time, location-aware audio playback.
 
@@ -72,7 +71,7 @@ Read my latest articles and architecture deep dives on **[Medium](https://medium
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aswinrathees&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=2196F3&title_color=2196F3" alt="Aswin's GitHub Stats" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=aswinrathees&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=2196F3&title_color=2196F3" alt="Aswin's GitHub Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswinrathees&theme=radical&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakNum=FFFFFF" alt="Aswin's GitHub Streak" />
 </div>
 
