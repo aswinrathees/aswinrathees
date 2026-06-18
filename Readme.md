@@ -71,7 +71,7 @@ Read my latest articles and architecture deep dives on **[Medium](https://medium
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=aswinrathees&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=2196F3&title_color=2196F3" alt="Aswin's GitHub Stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aswinrathees&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=2196F3&title_color=2196F3" alt="Aswin's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswinrathees&theme=radical&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakNum=FFFFFF" alt="Aswin's GitHub Streak" />
 </div>
 
